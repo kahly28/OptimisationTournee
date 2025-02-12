@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="projet_ACL"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="projet_ACL">
+				<Option output="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/projet_ACL.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER"/>
+					<Add directory="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/COR_FICHIER"/>
+					<Add directory="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/COR_FIGURE_CHARGEMENT"/>
+					<Add directory="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/VISITOR_FICHIER"/>
+					<Add directory="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/OUTILS"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 projet_ACL"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="projet_ACL/fast">
+				<Option output="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/projet_ACL.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER"/>
+					<Add directory="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/COR_FICHIER"/>
+					<Add directory="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/COR_FIGURE_CHARGEMENT"/>
+					<Add directory="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/VISITOR_FICHIER"/>
+					<Add directory="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/OUTILS"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 projet_ACL/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Enzo-pc/Downloads/Projet ACL/C++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/CONNEXION/FENETRE/Fenetre.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/CONNEXION/FENETRE/Fenetre.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/CONNEXION/SINGLETON/SingJavaLib.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/CONNEXION/SINGLETON/SingJavaLib.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/CONNEXION/VISITOR_DESSIN/DessinVisitor.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/CONNEXION/VISITOR_DESSIN/DessinVisitor.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/CONNEXION/VISITOR_DESSIN/JavaVisitor.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/CONNEXION/VISITOR_DESSIN/JavaVisitor.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/ERREUR/Erreur.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/ERREUR/Erreur.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/COR_FICHIER/ExpertFichier.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/COR_FICHIER/ExpertFichier.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/COR_FICHIER/ExpertFichierCOR.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/COR_FICHIER/ExpertFichierCOR.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/COR_FICHIER/ExpertFichierJSON.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/COR_FICHIER/ExpertFichierJSON.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/COR_FICHIER/InitCor.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/Fichier.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/Fichier.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/VISITOR_FICHIER/JSON.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/VISITOR_FICHIER/Visitor_Fichier.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/FICHIER/VISITOR_FICHIER/Visitor_Fichier.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/GRAPHE/AElement.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/GRAPHE/AElement.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/GRAPHE/Graphe.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/GRAPHE/Graphe.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/GRAPHE/Sommet.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/GRAPHE/Sommet.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/GRAPHE/UnionFind.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/GRAPHE/UnionFind.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/GRAPHE/Ville.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/GRAPHE/Ville.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/OUTILS/Camion.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/OUTILS/Camion.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/OUTILS/Matrice.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/OUTILS/Matrice.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/OUTILS/Vecteur2D.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/OUTILS/Vecteur2D.h">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/TEST/TestCommunication.cpp">
+			<Option target="projet_ACL"/>
+		</Unit>
+		<Unit filename="C:/Users/Enzo-pc/Downloads/Projet ACL/C++/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
