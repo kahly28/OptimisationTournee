@@ -25,5 +25,5 @@ Technologies Utilisées
 
 Langage : C++
 Format des données : JSON (listes de villes avec coordonnées GPS)
-Bibliothèques : Qt ou Java pour la visualisation
+Bibliothèques : Java pour la visualisation
 
