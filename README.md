@@ -1,9 +1,6 @@
-Projet Commun ACL - Optimisation de tournées de livraison
+Optimisation de tournées de livraison
 
-📌 Description du Projet
-
-Ce projet s'inscrit dans le cadre du module ACL (Algorithmique et Complexité) du Master 1 Informatique. Il vise à résoudre un problème d’ordonnancement en le transformant en un problème de logistique.
-
+Ce projet s'inscrit dans le cadre du Master Informatique. Il vise à résoudre un problème d’ordonnancement en le transformant en un problème de logistique.
 L'objectif est d'optimiser la tournée de livraison d’une flotte de camions devant approvisionner différentes villes, en minimisant la distance totale parcourue.
 
 Objectifs : 
